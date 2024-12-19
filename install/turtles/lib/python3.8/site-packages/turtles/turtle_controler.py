@@ -4,7 +4,7 @@ import rclpy
 import rclpy.executors
 from rclpy.node import Node
 from geometry_msgs.msg import Twist, Vector3
-import os, time
+import os
 
 
 class Turtle1(Node):
