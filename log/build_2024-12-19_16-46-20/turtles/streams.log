@@ -1,0 +1,37 @@
+[1.049s] Invoking command in '/home/orhan/turtle_homework1_v2/src/turtles': PYTHONPATH=/home/orhan/turtle_homework1_v2/build/turtles/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/orhan/turtle_homework1_v2/install/turtles/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtles build --build-base /home/orhan/turtle_homework1_v2/build/turtles/build install --record /home/orhan/turtle_homework1_v2/build/turtles/install.log --install-scripts $base/lib/turtles --single-version-externally-managed install_data
+[1.380s] running egg_info
+[1.381s] creating ../../build/turtles/turtles.egg-info
+[1.381s] writing ../../build/turtles/turtles.egg-info/PKG-INFO
+[1.382s] writing dependency_links to ../../build/turtles/turtles.egg-info/dependency_links.txt
+[1.382s] writing entry points to ../../build/turtles/turtles.egg-info/entry_points.txt
+[1.382s] writing requirements to ../../build/turtles/turtles.egg-info/requires.txt
+[1.382s] writing top-level names to ../../build/turtles/turtles.egg-info/top_level.txt
+[1.388s] writing manifest file '../../build/turtles/turtles.egg-info/SOURCES.txt'
+[1.432s] reading manifest file '../../build/turtles/turtles.egg-info/SOURCES.txt'
+[1.433s] writing manifest file '../../build/turtles/turtles.egg-info/SOURCES.txt'
+[1.433s] running build
+[1.434s] running build_py
+[1.434s] creating /home/orhan/turtle_homework1_v2/build/turtles/build
+[1.434s] creating /home/orhan/turtle_homework1_v2/build/turtles/build/lib
+[1.434s] creating /home/orhan/turtle_homework1_v2/build/turtles/build/lib/turtles
+[1.434s] copying turtles/turtle_controler.py -> /home/orhan/turtle_homework1_v2/build/turtles/build/lib/turtles
+[1.434s] copying turtles/__init__.py -> /home/orhan/turtle_homework1_v2/build/turtles/build/lib/turtles
+[1.434s] running install
+[1.436s] running install_lib
+[1.438s] creating /home/orhan/turtle_homework1_v2/install/turtles/lib/python3.8/site-packages/turtles
+[1.438s] copying /home/orhan/turtle_homework1_v2/build/turtles/build/lib/turtles/turtle_controler.py -> /home/orhan/turtle_homework1_v2/install/turtles/lib/python3.8/site-packages/turtles
+[1.438s] copying /home/orhan/turtle_homework1_v2/build/turtles/build/lib/turtles/__init__.py -> /home/orhan/turtle_homework1_v2/install/turtles/lib/python3.8/site-packages/turtles
+[1.439s] byte-compiling /home/orhan/turtle_homework1_v2/install/turtles/lib/python3.8/site-packages/turtles/turtle_controler.py to turtle_controler.cpython-38.pyc
+[1.443s] byte-compiling /home/orhan/turtle_homework1_v2/install/turtles/lib/python3.8/site-packages/turtles/__init__.py to __init__.cpython-38.pyc
+[1.443s] running install_data
+[1.443s] creating /home/orhan/turtle_homework1_v2/install/turtles/share/ament_index
+[1.443s] creating /home/orhan/turtle_homework1_v2/install/turtles/share/ament_index/resource_index
+[1.444s] creating /home/orhan/turtle_homework1_v2/install/turtles/share/ament_index/resource_index/packages
+[1.444s] copying resource/turtles -> /home/orhan/turtle_homework1_v2/install/turtles/share/ament_index/resource_index/packages
+[1.444s] copying package.xml -> /home/orhan/turtle_homework1_v2/install/turtles/share/turtles
+[1.444s] running install_egg_info
+[1.447s] Copying ../../build/turtles/turtles.egg-info to /home/orhan/turtle_homework1_v2/install/turtles/lib/python3.8/site-packages/turtles-0.0.0-py3.8.egg-info
+[1.449s] running install_scripts
+[1.470s] Installing turtles script to /home/orhan/turtle_homework1_v2/install/turtles/lib/turtles
+[1.470s] writing list of installed files to '/home/orhan/turtle_homework1_v2/build/turtles/install.log'
+[1.499s] Invoked command in '/home/orhan/turtle_homework1_v2/src/turtles' returned '0': PYTHONPATH=/home/orhan/turtle_homework1_v2/build/turtles/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/orhan/turtle_homework1_v2/install/turtles/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtles build --build-base /home/orhan/turtle_homework1_v2/build/turtles/build install --record /home/orhan/turtle_homework1_v2/build/turtles/install.log --install-scripts $base/lib/turtles --single-version-externally-managed install_data
